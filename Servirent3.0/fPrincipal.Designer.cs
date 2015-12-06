@@ -1,6 +1,6 @@
 ﻿namespace Servirent3._0
 {
-    partial class Form1
+    partial class fPrincipal
     {
         /// <summary>
         /// Variable del diseñador requerida.
